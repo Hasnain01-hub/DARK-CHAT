@@ -102,7 +102,7 @@ if(isset($_POST["register"]))
 							<input type="password" name="password" class="form-control" />
 						</div>
 						<div class="form-group">
-							<label>Re-enter Password</label>
+							<label>Renter Password</label>
 							<input type="password" name="confirm_password" class="form-control" />
 						</div>
 						<div class="form-group">
